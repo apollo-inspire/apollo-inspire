@@ -32,13 +32,15 @@
 > <img alt="Figma" height='50' src="img/figma.svg"/>
 
 
+<!-- 
 ### 🚀Future🚀
 
 > <img alt="Node.js" height='50' src="img/nodejs.svg"/> 
 > <img alt="Next.js" height='50' src="img/nextjs.svg"/> 
 > <img alt="Kubernetes" height='50' src="img/kubernetes.svg"/> 
 > <img alt="AWS" height='50' src="img/aws.svg"/> 
-> <img alt="PWA" height='30' src="img/pwa.png"/> 
+> <img alt="PWA" height='30' src="img/pwa.png"/>  
+> -->
 
 ### 😭Why do i know this😭
 
