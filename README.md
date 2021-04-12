@@ -5,6 +5,8 @@
 💜 🇳🇱 📽️ 🎬 🎵 👾 📷 💻 🖌️ 💚 🌈  
 UX-Designer & Frontend Webdeveloper
 
+Senior Markdown Developer
+
 ## Links
 
 Portfolio website: https://lucasvandervegt.nl/ ([backup][github.io/portofolio])  
