@@ -14,7 +14,7 @@ UX-Designer & Frontend Webdeveloper
 > <img alt="Markdown" width='80' src="img/markdown.svg"/>
 > <img alt="DocFX" height='50' src="img/docfx.jpg"/>
 
-### 💾Skilled💾
+### 🧠In da brain🧠
 > <img alt="GIT" height='50' src="img/git.svg"/> 
 > <img alt="JavaScript" height='50' src="img/javascript.svg"/>  
 > <img alt="PHP" height='30' src="img/php.svg"/> 
