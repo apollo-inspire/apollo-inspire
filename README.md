@@ -1,5 +1,6 @@
 # LuukFTF
 
+💜 🇳🇱 📽️ 🎬 🎵 👾 📷 💻 🖌️ 💚 🌈
 UX-Designer & Frontend Webdeveloper
 
 ## Skills
