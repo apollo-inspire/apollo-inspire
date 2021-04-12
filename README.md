@@ -1,7 +1,14 @@
 # LuukFTF
 
+## About me
+
 💜 🇳🇱 📽️ 🎬 🎵 👾 📷 💻 🖌️ 💚 🌈  
 UX-Designer & Frontend Webdeveloper
+
+## Links
+
+Portfolio website: https://lucasvandervegt.nl/ ([backup][github.io/portofolio])  
+Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledgebase])
 
 ## Skills
 
@@ -50,3 +57,7 @@ UX-Designer & Frontend Webdeveloper
 > <img alt="VisualBasic" height='30' src="img/visualbasic.svg"/> 
 > <img alt="Visual Studio" height='30' src="img/visualstudio.svg"/> 
 > <img alt="Wordpress" height='30' src="img/wordpress.svg"/> 
+
+
+[github.io/portofolio]: https://luukftf.github.io/docfx-portfolio/
+[github/knowledgebase]: https://github.com/LuukFTF/knowledgebase
