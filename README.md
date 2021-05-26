@@ -26,7 +26,6 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 ### 🧠In da brain🧠
 > <img alt="GIT" height='40' src="img/git.svg"/> 
 > <img alt="JavaScript" height='40' src="img/javascript.svg"/>  
-> <img alt="PHP" height='25' src="img/php.svg"/> 
 > <img alt="SQL" height='40' src="img/mysql.svg"/> 
 > <img alt="Arduino" height='40' src="img/arduino.svg"/> 
 > <img alt="VScode" height='40' src="img/vscode.svg"/> 
@@ -59,6 +58,7 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 > <img alt="VisualBasic" height='30' src="img/visualbasic.svg"/> 
 > <img alt="Visual Studio" height='30' src="img/visualstudio.svg"/> 
 > <img alt="Wordpress" height='30' src="img/wordpress.svg"/> 
+> <img alt="PHP" height='25' src="img/php.svg"/> 
 
 
 [github.io/portofolio]: https://luukftf.github.io/docfx-portfolio/
