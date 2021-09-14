@@ -9,8 +9,8 @@ Senior Markdown Developer™
 
 ## Links
 
-Portfolio website: https://luukftf.github.io/docfx-portfolio/ ([backup][https://lucasvandervegt.nl/])  
-Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledgebase)
+Portfolio website: https://luukftf.github.io/docfx-portfolio/ ([backup][lucasvandervegt/portofolio])  
+Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledgebase])
 
 ## Skills
 
@@ -63,6 +63,6 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 > <img alt="Wordpress" height='30' src="img/wordpress.svg"/> 
 
 
-
+[lucasvandervegt/portofolio]: https://lucasvandervegt.nl/
 [github.io/portofolio]: https://luukftf.github.io/docfx-portfolio/
 [github/knowledgebase]: https://github.com/LuukFTF/knowledgebase
