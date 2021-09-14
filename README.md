@@ -1,18 +1,18 @@
-# LuukFTF
+# # LuukFTF
 
-## About me
+## ## About me
 
 💜 🇳🇱 📽️ 🎬 🎵 👾 📷 💻 🖌️ 💚 🌈  
 UX-Designer & Frontend Webdeveloper
 
-Senior Markdown Developer™
+*Senior Markdown Developer™*
 
-## Links
+## ##  Links
 
 Portfolio website: https://luukftf.github.io/docfx-portfolio/ ([backup][lucasvandervegt/portofolio])  
 Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledgebase])
 
-## Skills
+## ## Skills
 
 ### ⚡Mastered⚡
 
