@@ -42,25 +42,25 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 > <img alt="Figma" height='40' src="img/figma.svg"/>
 
 
-<!-- 
-### 🚀Future🚀
-
+<!-- ### 🚀Future🚀
 > <img alt="Node.js" height='50' src="img/nodejs.svg"/> 
 > <img alt="Next.js" height='50' src="img/nextjs.svg"/> 
+> <img alt="Nest.js" height='50' src="img/nestjs.svg"/>
 > <img alt="Kubernetes" height='50' src="img/kubernetes.svg"/> 
-> <img alt="AWS" height='50' src="img/aws.svg"/> 
-> <img alt="PWA" height='30' src="img/pwa.png"/>  
+> <img alt="AWS" height='30' src="img/aws.svg"/> 
+> <img alt="PWA" height= '30' src="img/pwa.png"/>  
 > <img alt="DevOps" height='50' src="img/devops.webp"/> 
 > <img alt="Angular" height='40' src="img/angular.svg"/> 
 > <img alt="React" height='40' src="img/react.svg"/> 
 > <img alt="Docker" height='40' src="img/docker.svg"/> 
-> -->
+> <img alt="Dotnetcore" height='40' src="img/dotnetcore.svg"/>  -->
 
 ### 😭Why do i know this😭
 
 > <img alt="VisualBasic" height='30' src="img/visualbasic.svg"/> 
 > <img alt="Visual Studio" height='30' src="img/visualstudio.svg"/> 
 > <img alt="Wordpress" height='30' src="img/wordpress.svg"/> 
+> <img alt=".NET" height='30' src="img/dotnet.svg"/> 
 
 
 [lucasvandervegt/portofolio]: https://lucasvandervegt.nl/
