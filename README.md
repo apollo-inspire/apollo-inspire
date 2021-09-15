@@ -63,16 +63,6 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 > <img alt=".NET" height='30' src="img/dotnet.svg"/> 
 
 
-journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
-
 [lucasvandervegt/portofolio]: https://lucasvandervegt.nl/
 [github.io/portofolio]: https://luukftf.github.io/docfx-portfolio/
 [github/knowledgebase]: https://github.com/LuukFTF/knowledgebase
