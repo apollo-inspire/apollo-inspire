@@ -3,14 +3,14 @@
 ## ## About me
 
 💜 🇳🇱 📽️ 🎬 🎵 👾 📷 💻 🖌️ 💚 🌈  
-UX-Designer & Frontend Webdeveloper
+UX-Designer & Webdeveloper
 
 *Senior Markdown Developer™*
 
 ## ##  Links
 
-Portfolio website: https://luukftf.github.io/docfx-portfolio/ ([backup][lucasvandervegt/portofolio])  
-Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledgebase])
+[Portfolio website][github.io/lucasvdvegt/portfolio] ([backup][lucasvdvegt/portfolio])  
+[Knowledgebase][github.io/lucasvdvegt/knowledgebase] ([repo][github/lucasvdvegt/knowledgebase])
 
 ## ## Skills
 
@@ -64,7 +64,10 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 > <img alt="Wordpress" height='30' src="img/wordpress.svg"/> 
 > <img alt=".NET" height='30' src="img/dotnet.svg"/> 
 
+<!-- LINKS -->
 
-[lucasvandervegt/portofolio]: https://lucasvandervegt.nl/
-[github.io/portofolio]: https://luukftf.github.io/docfx-portfolio/
-[github/knowledgebase]: https://github.com/LuukFTF/knowledgebase
+[lucasvdvegt/portfolio]: https://lucasvandervegt.nl/
+[github.io/lucasvdvegt/portfolio]: https://luukftf.github.io/docfx-portfolio/
+[github/lucasvdvegt/knowledgebase]: https://github.com/LuukFTF/knowledgebase
+[github.io/lucasvdvegt/knowledgebase]: https://luukftf.github.io/knowledgebase/
+
