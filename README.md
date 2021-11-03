@@ -35,15 +35,17 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 > <img alt="Github" height='40' src="img/github.svg"/> 
 > <img alt="Jira" height='40' src="img/jira.svg"/> 
 > <img alt="PHP" height='25' src="img/php.svg"/> 
+> > <img alt="Laravel" height='40' src="img/laravel.svg"/>
 
 ### 🌱Learning🌱
-> <img alt="Laravel" height='40' src="img/laravel.svg"/>
+> <img alt="React" height='40' src="img/react.svg"/> 
+> <img alt="Node.js" height='50' src="img/nodejs.svg"/> 
 > <img alt="SASS" height='40' src="img/sass.svg"/>
 > <img alt="Figma" height='40' src="img/figma.svg"/>
 
 
 <!-- ### 🚀Future🚀
-> <img alt="Node.js" height='50' src="img/nodejs.svg"/> 
+
 > <img alt="Next.js" height='50' src="img/nextjs.svg"/> 
 > <img alt="Nest.js" height='50' src="img/nestjs.svg"/>
 > <img alt="Kubernetes" height='50' src="img/kubernetes.svg"/> 
@@ -51,7 +53,6 @@ Knowledgebase: https://luukftf.github.io/knowledgebase/ ([repo][github/knowledge
 > <img alt="PWA" height= '30' src="img/pwa.png"/>  
 > <img alt="DevOps" height='50' src="img/devops.webp"/> 
 > <img alt="Angular" height='40' src="img/angular.svg"/> 
-> <img alt="React" height='40' src="img/react.svg"/> 
 > <img alt="Docker" height='40' src="img/docker.svg"/> 
 > <img alt="Dotnetcore" height='40' src="img/dotnetcore.svg"/>  -->
 
