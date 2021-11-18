@@ -19,7 +19,6 @@ UX-Designer & Webdeveloper
 > <img alt="HTML" width='30' src="img/html.svg"/>
 > <img alt="CSS" width='50' src="img/css.svg"/>
 > <img alt="Markdown" width='60' src="img/markdown.svg"/>
-> <img alt="Adobe XD" width='40' src="img/adobexd.svg"/>
 > <img alt="UX Design" width='70' src="img/uxui.svg"/>
 > <img alt="DocFX" height='40' src="img/docfx.jpg"/>
 > <img alt="VScode" height='40' src="img/vscode.svg"/>
@@ -33,17 +32,18 @@ UX-Designer & Webdeveloper
 > <img alt="Github" height='40' src="img/github.svg"/> 
 > <img alt="SQL" height='40' src="img/mysql.svg"/> 
 > <img alt="Arduino" height='40' src="img/arduino.svg"/> 
-> <img alt="BitBucket" height='40' src="img/bitbucket.svg"/> 
-> <img alt="GitLab" height='40' src="img/gitlab.svg"/> 
-> <img alt="Jira" height='40' src="img/jira.svg"/> 
+> <img alt="Adobe XD" width='40' src="img/adobexd.svg"/>
 
 
 ### 🌱Learning🌱
-> <img alt="React" height='40' src="img/react.svg"/> 
+> <img alt="RESTfull API" height='30' src="img/restapi.png"/>
 > <img alt="Node.js" height='50' src="img/nodejs.svg"/> 
+> <img alt="React" height='40' src="img/react.svg"/> 
 > <img alt="SASS" height='40' src="img/sass.svg"/>
 > <img alt="Figma" height='40' src="img/figma.svg"/>
-
+> <img alt="OAuth" height='40' src="img/oauth.svg"/>
+> <img alt="Linux" height='40' src="img/linux.svg"/>
+> <img alt="BASH" height='40' src="img/bash.svg"/>
 
 <!-- ### 🚀Future🚀
 
@@ -57,8 +57,11 @@ UX-Designer & Webdeveloper
 > <img alt="Docker" height='40' src="img/docker.svg"/> 
 > <img alt="Dotnetcore" height='40' src="img/dotnetcore.svg"/>  -->
 
-### 😭Why do i know this😭
+### worked with in the past
 
+> <img alt="GitLab" height='40' src="img/gitlab.svg"/> 
+> <img alt="BitBucket" height='40' src="img/bitbucket.svg"/> 
+> <img alt="Jira" height='40' src="img/jira.svg"/> 
 > <img alt="VisualBasic" height='30' src="img/visualbasic.svg"/> 
 > <img alt="Visual Studio" height='30' src="img/visualstudio.svg"/> 
 > <img alt="Wordpress" height='30' src="img/wordpress.svg"/> 
