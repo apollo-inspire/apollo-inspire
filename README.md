@@ -19,11 +19,11 @@ UX-Designer & Webdeveloper
 > <img alt="HTML" width='30' src="img/html.svg"/>
 > <img alt="CSS" width='50' src="img/css.svg"/>
 > <img alt="Markdown" width='60' src="img/markdown.svg"/>
-> <img alt="UX Design" width='70' src="img/uxui.svg"/>
 > <img alt="DocFX" height='40' src="img/docfx.jpg"/>
 > <img alt="VScode" height='40' src="img/vscode.svg"/>
 
 ### 🧠In da brain🧠
+> <img alt="UX Design" width='70' src="img/uxui.svg"/>
 > <img alt="GIT" height='40' src="img/git.svg"/> 
 > <img alt="Laravel" height='40' src="img/laravel.svg"/>
 > <img alt="PHP" height='25' src="img/php.svg"/> 
