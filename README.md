@@ -30,7 +30,7 @@ UX-Designer & Webdeveloper
 > <img alt="TypeScript" height='40' src="img/typescript.svg"/> 
 > <img alt="JavaScript" height='40' src="img/javascript.svg"/>  
 > <img alt="Github" height='40' src="img/github.svg"/> 
-> <img alt="SQL" height='40' src="img/mysql.svg"/> 
+> <img alt="SQL" height='40' src="img/sql.png"/> 
 > <img alt="Arduino" height='40' src="img/arduino.svg"/> 
 > <img alt="Adobe XD" width='40' src="img/adobexd.svg"/>
 
@@ -44,6 +44,7 @@ UX-Designer & Webdeveloper
 > <img alt="OAuth" height='40' src="img/oauth.svg"/>
 > <img alt="Linux" height='40' src="img/linux.svg"/>
 > <img alt="BASH" height='40' src="img/bash.svg"/>
+> <img alt="MongoDB" height='40' src="img/mongodb.png"/>
 
 <!-- ### 🚀Future🚀
 
