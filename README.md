@@ -38,13 +38,16 @@ UX-Designer & Webdeveloper
 ### 🌱Learning🌱
 > <img alt="RESTfull API" height='30' src="img/restapi.png"/>
 > <img alt="Node.js" height='50' src="img/nodejs.svg"/> 
+> <img alt="express" height='40' src="img/express.png"/>
 > <img alt="React" height='40' src="img/react.svg"/> 
+> <img alt="MongoDB" height='40' src="img/mongodb.png"/>
+> <img alt="OAuth" height='40' src="img/oauth.svg"/>
 > <img alt="SASS" height='40' src="img/sass.svg"/>
 > <img alt="Figma" height='40' src="img/figma.svg"/>
-> <img alt="OAuth" height='40' src="img/oauth.svg"/>
 > <img alt="Linux" height='40' src="img/linux.svg"/>
 > <img alt="BASH" height='40' src="img/bash.svg"/>
-> <img alt="MongoDB" height='40' src="img/mongodb.png"/>
+> <img alt="DevOps" height='50' src="img/devops.webp"/> 
+
 
 <!-- ### 🚀Future🚀
 
@@ -53,9 +56,6 @@ UX-Designer & Webdeveloper
 > <img alt="Kubernetes" height='50' src="img/kubernetes.svg"/> 
 > <img alt="AWS" height='30' src="img/aws.svg"/> 
 > <img alt="PWA" height= '30' src="img/pwa.png"/>  
-> <img alt="DevOps" height='50' src="img/devops.webp"/> 
-> <img alt="Angular" height='40' src="img/angular.svg"/> 
-> <img alt="Docker" height='40' src="img/docker.svg"/> 
 > <img alt="Dotnetcore" height='40' src="img/dotnetcore.svg"/>  -->
 
 ### worked with in the past
@@ -67,6 +67,8 @@ UX-Designer & Webdeveloper
 > <img alt="Visual Studio" height='30' src="img/visualstudio.svg"/> 
 > <img alt="Wordpress" height='30' src="img/wordpress.svg"/> 
 > <img alt=".NET" height='30' src="img/dotnet.svg"/> 
+> <img alt="Angular" height='40' src="img/angular.svg"/> 
+> <img alt="Docker" height='40' src="img/docker.svg"/> 
 
 <!-- LINKS -->
 
