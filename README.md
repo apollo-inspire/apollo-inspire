@@ -1,4 +1,4 @@
-# # LuukFTF
+# # Apollo
 
 ## ## About me
 
@@ -9,8 +9,7 @@ UX-Designer & Webdeveloper
 
 ## ##  Links
 
-[Portfolio website][github.io/lucasvdvegt/portfolio] ([backup][lucasvdvegt/portfolio])  
-[Knowledgebase][github.io/lucasvdvegt/knowledgebase] ([repo][github/lucasvdvegt/knowledgebase])
+[Portfolio website][github.io/lucasvdvegt/portfolio]
 
 ## ## Skills
 
@@ -72,8 +71,5 @@ UX-Designer & Webdeveloper
 
 <!-- LINKS -->
 
-[lucasvdvegt/portfolio]: https://lucasvandervegt.nl/
-[github.io/lucasvdvegt/portfolio]: https://luukftf.github.io/docfx-portfolio/
-[github/lucasvdvegt/knowledgebase]: https://github.com/LuukFTF/knowledgebase
-[github.io/lucasvdvegt/knowledgebase]: https://luukftf.github.io/knowledgebase/
+[github.io/apollo/portfolio]: https://apollo-inspire.github.io/portfolio/
 
