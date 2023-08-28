@@ -9,7 +9,7 @@ UX-Designer & Webdeveloper
 
 ## ##  Links
 
-[Portfolio website][github.io/lucasvdvegt/portfolio]
+[Portfolio website][github.io/apollo/portfolio]
 
 ## ## Skills
 
